@@ -17,3 +17,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 11.0
+
+[submodule "thomaspot/reporting-engine"]
+	path = thomaspot/reporting-engine
+	url = git@github.com:thomaspot/reporting-engine.git
+	branch = 10.0
